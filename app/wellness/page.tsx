@@ -19,8 +19,8 @@ export default function WellnessPage() {
           <div className="max-w-6xl mx-auto">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <img
-                src="/spa-massage-wellness.jpg"
-                alt="Moroccan Bath & Facial Reflexology"
+                src="/wellness/ethiopia-hot-springs.jpg"
+                alt="Natural hot springs in Ethiopia"
                 className="w-full h-96 object-cover rounded-lg shadow-lg"
               />
               <div>
@@ -46,8 +46,8 @@ export default function WellnessPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div className="md:order-2">
                 <img
-                  src="/luxury-spa-wellness-amenities.jpg"
-                  alt="Steam & Sauna"
+                  src="/wellness/ethiopia-natural-hot-spring.jpg"
+                  alt="Natural hot spring above Wondo Genet, Ethiopia"
                   className="w-full h-96 object-cover rounded-lg shadow-lg"
                 />
               </div>
@@ -71,8 +71,8 @@ export default function WellnessPage() {
           <div className="max-w-6xl mx-auto">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <img
-                src="/luxury-hotel-lobby-entrance-cinematic.jpg"
-                alt="Relaxation Lounge"
+                src="/wellness/ethiopia-coffee-ceremony.jpg"
+                alt="Traditional Ethiopian coffee ceremony"
                 className="w-full h-96 object-cover rounded-lg shadow-lg"
               />
               <div>
@@ -96,8 +96,8 @@ export default function WellnessPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div className="md:order-2">
                 <img
-                  src="/spa-massage-wellness.jpg"
-                  alt="Massage Therapy Services"
+                  src="/wellness/ethiopia-wondo-genet-hotel.jpg"
+                  alt="Wellness resort hotel in Wondo Genet, Ethiopia"
                   className="w-full h-96 object-cover rounded-lg shadow-lg"
                 />
               </div>
@@ -121,8 +121,8 @@ export default function WellnessPage() {
           <div className="max-w-6xl mx-auto">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <img
-                src="/img/gymdesign_render_Two_collumn_grid_cb1b5850-fa8e-4a7b-a2b3-190c2e45facd.webp"
-                alt="Gym & Fitness Center"
+                src="/wellness/ethiopia-runners.jpg"
+                alt="Runners training in Ethiopia"
                 className="w-full h-96 object-cover rounded-lg shadow-lg"
               />
               <div>
