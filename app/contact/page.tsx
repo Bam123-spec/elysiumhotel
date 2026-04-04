@@ -57,9 +57,8 @@ export default function ContactPage() {
                   <MapPin className="w-8 h-8 text-primary" />
                 </div>
                 <h3 className="font-serif text-2xl font-light mb-3 tracking-wide">Address</h3>
-                <p className="text-gray-700">123 Wellness Drive</p>
-                <p className="text-gray-700">Paradise Valley, CA 92001</p>
-                <p className="text-gray-700">United States</p>
+                <p className="text-gray-700">Elysium hotel and wellness</p>
+                <p className="text-gray-700">XQPJ+JCC, Addis Ababa, Ethiopia</p>
               </div>
 
               {/* Phone */}
@@ -68,8 +67,7 @@ export default function ContactPage() {
                   <Phone className="w-8 h-8 text-primary" />
                 </div>
                 <h3 className="font-serif text-2xl font-light mb-3 tracking-wide">Phone</h3>
-                <p className="text-gray-700 mb-2">Reservations: +1 (800) 555-ELYSIUM</p>
-                <p className="text-gray-700 mb-2">Front Desk: +1 (800) 555-3568</p>
+                <p className="text-gray-700 mb-2">251-9211-1519</p>
                 <p className="text-gray-700">24/7 Guest Support Available</p>
               </div>
 

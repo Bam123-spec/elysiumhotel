@@ -19,11 +19,11 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0 text-primary" />
-                <p className="text-sm text-white/60">Bole Addis Ababa, Ethiopia</p>
+                <p className="text-sm text-white/60">Elysium hotel and wellness, XQPJ+JCC, Addis Ababa, Ethiopia</p>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-primary" />
-                <p className="text-sm text-white/60">+251 91-121-5119</p>
+                <p className="text-sm text-white/60">251-9211-1519</p>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-primary" />
